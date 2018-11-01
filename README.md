@@ -1,30 +1,120 @@
-# netart
-<body>
-  <h1>Jacob Rems</h1>
-  <div id="introduction">
-    <h2>About me</h2>
-    <p> <strong>I am  a UX Designer based in The San Francisco Bay Area</strong>.<br /><br /> </p>
-    <h3>Skills</h3>
-    <ul>
-      <li>Invision</li>
-      <li>Sketch</li>
-      <li>Photoshop</li>
-      <li>Principle</li>
-    </ul>
-    <h3>Work Experience</h3>
-    <p>I have a knowledgeable background in UX and UI design working with companies such as GoElite and i2Chain as a Lead Designer  and Consultant</p>
-  </div>
-  <div id="habitat">
-    <h2>My Process</h2>
-    <h3>My Work Process is calculated and looked at carefully from an analytical and deisgn perspective</h3>
-    <ol>
-      <li>First I Sketch my process and create wireframes</li>
-      <li>Then I take my wireframes into software platforms and begin making user flows</li>
-      <li>Finally, I prototype, simulating what my app will look and feel like within a product</li>
-    </ol>
-  <div id="media">
-    <h2>Demo</h2>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/zFBa7URT654" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </div>
-</body>
+<h2>qwerty</h2>
+      <p>qwerty</p>
+    </div>
+    <div class="w3-row">
+      <div class="w3-half">
+        <img src="/w3images/coffee.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/coffee.jpg" style="width:100%">
+      </div>
+    </div>
 
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="/w3images/sound.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+    </div><br>
+    <p>qwerty</p>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>qwerty</h2>
+      <p>qwerty</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>qwerty</th>
+            <th>qwerty</th>
+            <th>qwerty</th>
+          </tr>
+          <tr class="w3-white">
+            <td>qwerty</td>
+            <td>=qwerty..</td>
+            <td>qwertyqwerty</td>
+          </tr>
+          <tr>
+            <td>qwerty</td>
+            <td>qwerty</td>
+            <td>qwerty</td>
+          </tr>
+          <tr class="w3-white">
+            <td>qwerty</td>
+            <td>qwerty</td>
+            <td>qwerty</td>
+          </tr>
+          <tr>
+            <td>qwerty</td>
+            <td>qwerty</td>
+            <td>qwerty</td>
+          </tr>
+          <tr class="w3-white">
+            <td>qwerty</td>
+            <td>qwerty</td>
+            <td>qwerty</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td>2qwerty</td>
+            <td>qwerty</td>
+            <td>qwerty</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Swing By</h1>
+    </div>
+    <div class="w3-padding-64">
+      <p>..qwerty qwerty qwerty qwerty qwerty, qwerty qwerty.</p>
+      <p>qwerty, qwerty</p>
+      <p>+qwerty qwerty</p>
+      <p>qwerty</p>
+    </div>
+  </div>
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-padding-large">
+      <h1>Contact</h1>
+      <p class="w3-opacity">qwerty</p>
+      <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
+        <div class="w3-section">
+          <label>qwerty</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Name">
+        </div>
+        <div class="w3-section">
+          <label>qwerty</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Email">
+        </div>
+        <div class="w3-section">
+          <label>qwerty</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Message">
+        </div>
+        <button type="submit" class="w3-button w3-teal w3-right">Send</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16">
+  <p>qwerty<a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
